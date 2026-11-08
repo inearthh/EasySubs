@@ -4,12 +4,25 @@
 
 ---
 
+[![Download APK](https://img.shields.io/badge/Download-EasySubs%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/inearthh/EasySubs/releases/download/v1.0.0/EasySubs.apk)
+[![All Releases](https://img.shields.io/badge/GitHub-Releases-black?style=for-the-badge&logo=github)](https://github.com/inearthh/EasySubs/releases)
+
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](#android-app)
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](#desktop-app)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
+
+---
+
+## 📥 Download App
+
+Get the latest release of EasySubs:
+
+- 📱 **[Download EasySubs APK (Android)](https://github.com/inearthh/EasySubs/releases/download/v1.0.0/EasySubs.apk)**  
+  *Direct `.apk` install for Android 8.0+ phones and tablets.*
+- 📦 **[View All Releases on GitHub](https://github.com/inearthh/EasySubs/releases)**
 
 ---
 
