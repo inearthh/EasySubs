@@ -1,0 +1,57 @@
+# Android & Gradle
+.gradle/
+build/
+**/build/
+*.apk
+*.ap_
+*.aab
+*.dex
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Python & PyInstaller
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+*.spec
+*.exe
+
+# Temporary test files & debug dumps
+*.log
+_temp_*
+temp_*
+crop_top.png
+app_screen.png
+live_screen.png
+now.png
+phone_screenshot.png
+search_results_live.png
+myfiles_screen.png
+myfiles_ui.xml
+s1.png
+black_live.png
+black_theme_live.png
+downloads_view.png
+*.zip
+*.luac
+VLSub.lua
+VLSub Android*
+black easysubs Android*
+EasySubs_Previews/
+*.srt
+*_slice.png
+*cropped*.png
+*raw*.png
+extracted_logo.png
+black_search_cards.png
+results_card.png
+results_chips.png
+Run_VLSub.bat
+vlsub_icon.*
+black_icon_square.png
+header_content.png
+header_logo_crop.png
